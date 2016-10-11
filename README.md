@@ -13,5 +13,5 @@
  * more?
 
 ### Screenshots
-[[https://github.com/kamwitsta/dutch_peasants/tree/master/img/screenshot-vim-1.png|alt=vim]]
-[[https://github.com/kamwitsta/dutch_peasants/tree/master/img/screenshot-vim-2.png|alt=vim]]
+[[https://github.com/kamwitsta/dutch_peasants/blob/master/img/vim-1.png|alt=vim]]
+[[https://github.com/kamwitsta/dutch_peasants/blob/master/img/vim-2.png|alt=vim]]
