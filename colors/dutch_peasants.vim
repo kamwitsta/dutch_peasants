@@ -1,5 +1,5 @@
 " ===============================================================================================
-" Description:	A dark scheme of earth colours
+" Description:	A dark scheme of earth colours for Vim
 "				inspired by Adriaen van Ostade’s “Peasants in an Interior” (1661)
 "  Maintainer:	kamil.stachowski@gmail.com
 "     License:	gpl 3+
